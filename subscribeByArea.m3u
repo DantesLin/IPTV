@@ -1,4 +1,252 @@
 #EXTM3U
+#EXTINF:-1 ,radio=true ,CRI 环球资讯广播 FM90.5
+http://live.xmcdn.com/live/1040/64.m3u8
+#EXTINF:-1 ,radio=true ,CRI 环球资讯广播 FM90.5
+http://ls.qingting.fm/live/24035.m3u8
+#EXTINF:-1 ,radio=true ,CRI 中文环球广播
+http://live.xmcdn.com/live/1043/64.m3u8
+#EXTINF:-1 ,radio=true ,CRI 中文环球广播
+http://ls.qingting.fm/live/4995.m3u8
+#EXTINF:-1 ,radio=true ,CRI 海峡飞虹
+http://ls.qingting.fm/live/1734855.m3u8
+#EXTINF:-1 ,radio=true ,CRI 南海之声
+http://live.xmcdn.com/live/1054/64.m3u8
+#EXTINF:-1 ,radio=true ,CRI 南海之声
+http://ls.qingting.fm/live/62624.m3u8
+#EXTINF:-1 ,radio=true ,CRI 客家之声
+http://live.xmcdn.com/live/1055/64.m3u8
+#EXTINF:-1 ,radio=true ,CRI 闽南之音
+http://live.xmcdn.com/live/1052/64.m3u8
+#EXTINF:-1 ,radio=true ,CRI 闽南之音
+http://ls.qingting.fm/live/1002.m3u8
+#EXTINF:-1 ,radio=true ,CRI Hit FM FM88.7
+http://live.xmcdn.com/live/75/64.m3u8
+#EXTINF:-1 ,radio=true ,CRI Hit FM FM88.7
+http://ls.qingting.fm/live/1007.m3u8
+#EXTINF:-1 ,radio=true ,CRI 轻松调频 FM91.5
+http://live.xmcdn.com/live/1042/64.m3u8
+#EXTINF:-1 ,radio=true ,CRI 轻松调频 FM91.5
+http://ls.qingting.fm/live/1006.m3u8
+#EXTINF:-1 ,radio=true ,CRI NEWS Plus AM846
+http://ls.qingting.fm/live/4584.m3u8
+#EXTINF:-1 ,radio=true ,CNR 经济之声
+http://live.xmcdn.com/live/1066/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 经济之声
+http://ls.qingting.fm/live/387.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国之声
+http://live.xmcdn.com/live/1065/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国之声
+http://ls.qingting.fm/live/386.m3u8
+#EXTINF:-1 ,radio=true ,CNR 音乐之声
+http://live.xmcdn.com/live/12/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 音乐之声
+http://ls.qingting.fm/live/388.m3u8
+#EXTINF:-1 ,radio=true ,CNR 经典音乐广播 101.8
+http://live.xmcdn.com/live/13/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 经典音乐广播 101.8
+http://ls.qingting.fm/live/389.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中华之声
+http://live.xmcdn.com/live/14/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中华之声
+http://ls.qingting.fm/live/390.m3u8
+#EXTINF:-1 ,radio=true ,CNR 神州之声
+http://live.xmcdn.com/live/15/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 神州之声
+http://ls.qingting.fm/live/391.m3u8
+#EXTINF:-1 ,radio=true ,CNR 华夏之声
+http://live.xmcdn.com/live/16/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 华夏之声
+http://ls.qingting.fm/live/392.m3u8
+#EXTINF:-1 ,radio=true ,CNR 香港之声
+http://live.xmcdn.com/live/44/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 香港之声
+http://ls.qingting.fm/live/4986.m3u8
+#EXTINF:-1 ,radio=true ,CNR 文艺之声
+http://live.xmcdn.com/live/38/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 文艺之声
+http://ls.qingting.fm/live/395.m3u8
+#EXTINF:-1 ,radio=true ,CNR 老年之声
+http://live.xmcdn.com/live/39/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 老年之声
+http://ls.qingting.fm/live/396.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国乡村之声
+http://live.xmcdn.com/live/46/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国乡村之声
+http://ls.qingting.fm/live/5039.m3u8
+#EXTINF:-1 ,radio=true ,CNR 哈语广播
+http://live.xmcdn.com/live/1396/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 藏语广播
+http://ls.qingting.fm/live/4988.m3u8
+#EXTINF:-1 ,radio=true ,CNR 维语广播
+http://live.xmcdn.com/live/40/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 娱乐广播
+http://ls.qingting.fm/live/398.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国交通广播
+http://live.xmcdn.com/live/45/64.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国交通广播
+http://ls.qingting.fm/live/4985.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中华之声 (Opt-1)
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中华之声 (Opt-2)
+http://ngcdn005.cnr.cn/live/zhzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国之声 (Opt-1)
+http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国之声 (Opt-2)
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国乡村之声 (Opt-1)
+http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国乡村之声 (Opt-3)
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国交通广播 (Opt-1)
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 中国交通广播 (Opt-2)
+http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 华夏之声 (Opt-2)
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 华夏之声 (Opt-3)
+http://ngcdn007.cnr.cn/live/hxzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 哈语广播 (Opt-1)
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 哈语广播 (Opt-2)
+http://ngcdn025.cnr.cn/live/hygb48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 娱乐广播 (Opt-1)
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 娱乐广播 (Opt-2)
+http://ngcdn014.cnr.cn/live/ylgb48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 文艺之声 (Opt-2)
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 文艺之声 (Opt-3)
+http://ngcdn010.cnr.cn/live/wyzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 神州之声 (Opt-1)
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 神州之声 (Opt-2)
+http://ngcdn006.cnr.cn/live/szzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 经典音乐广播 101.8 (Opt-1)
+http://ngcdn004.cnr.cn/live/dszs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 经典音乐广播 101.8 (Opt-3)
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 经济之声 (Opt-2)
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 经济之声 (Opt-3)
+http://ngcdn002.cnr.cn/live/jjzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 维语广播 (Opt-1)
+http://ngcdn013.cnr.cn/live/wygb48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 维语广播 (Opt-2)
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 老年之声 (Opt-2)
+http://ngcdn011.cnr.cn/live/lnzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 老年之声 (Opt-3)
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 藏语广播 (Opt-1)
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 藏语广播 (Opt-2)
+http://ngcdn012.cnr.cn/live/zygb48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 音乐之声 (Opt-2)
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 音乐之声 (Opt-3)
+http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 香港之声 (Opt-1)
+http://ngcdn008.cnr.cn/live/xgzs48/index.m3u8
+#EXTINF:-1 ,radio=true ,CNR 香港之声 (Opt-3)
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 ,radio=true ,CRI Easy FM – FM91.5
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 ,radio=true ,CRI Hit FM FM88.7 (Opt-1)
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 ,radio=true ,CRI NEWS Plus AM1008 (Opt-2)
+http://sk.cri.cn/am1008.m3u8
+#EXTINF:-1 ,radio=true ,CRI NEWS Plus AM846
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 ,radio=true ,CRI 中文环球广播 (Opt-2)
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1 ,radio=true ,CRI 南海之声 (Opt-2)
+http://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1 ,radio=true ,CRI 客家之声
+http://sk.cri.cn/hakka.m3u8
+#EXTINF:-1 ,radio=true ,CRI 环球资讯广播 FM90.5 (Opt-2)
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 ,radio=true ,CRI 闽南之音 (Opt-2)
+http://sk.cri.cn/minnan.m3u8
+#EXTINF:-1 ,radio=true ,当涂人民广播电台 FM90.1
+http://ls.qingting.fm/live/78237.m3u8
+#EXTINF:-1 ,radio=true ,北京新闻广播 FM100.6
+http://ls.qingting.fm/live/339.m3u8
+#EXTINF:-1 ,radio=true ,北京音乐广播 FM97.4
+http://live.xmcdn.com/live/95/64.m3u8
+#EXTINF:-1 ,radio=true ,北京音乐广播 FM97.4
+http://ls.qingting.fm/live/332.m3u8
+#EXTINF:-1 ,radio=true ,北京交通广播 FM103.9
+http://live.xmcdn.com/live/93/64.m3u8
+#EXTINF:-1 ,radio=true ,北京交通广播 FM103.9
+http://ls.qingting.fm/live/336.m3u8
+#EXTINF:-1 ,radio=true ,北京文艺广播 FM87.6
+http://live.xmcdn.com/live/94/64.m3u8
+#EXTINF:-1 ,radio=true ,北京文艺广播 FM87.6
+http://ls.qingting.fm/live/333.m3u8
+#EXTINF:-1 ,radio=true ,北京欢乐时光 FM106.5
+http://live.xmcdn.com/live/107/64.m3u8
+#EXTINF:-1 ,radio=true ,北京欢乐时光 FM106.5
+http://ls.qingting.fm/live/341.m3u8
+#EXTINF:-1 ,radio=true ,北京怀旧金曲 FM107.5
+http://live.xmcdn.com/live/102/64.m3u8
+#EXTINF:-1 ,radio=true ,北京怀旧金曲 FM107.5
+http://ls.qingting.fm/live/340.m3u8
+#EXTINF:-1 ,radio=true ,北京古典音乐 FM98.6
+http://live.xmcdn.com/live/99/64.m3u8
+#EXTINF:-1 ,radio=true ,北京古典音乐 FM98.6
+http://ls.qingting.fm/live/344.m3u8
+#EXTINF:-1 ,radio=true ,北京教学广播 FM99.4
+http://live.xmcdn.com/live/104/64.m3u8
+#EXTINF:-1 ,radio=true ,北京教学广播 FM99.4
+http://ls.qingting.fm/live/338.m3u8
+#EXTINF:-1 ,radio=true ,北京长书广播 FM104.3
+http://live.xmcdn.com/live/105/64.m3u8
+#EXTINF:-1 ,radio=true ,北京长书广播 FM104.3
+http://ls.qingting.fm/live/342.m3u8
+#EXTINF:-1 ,radio=true ,北京戏曲曲艺 FM105.1
+http://live.xmcdn.com/live/106/64.m3u8
+#EXTINF:-1 ,radio=true ,北京戏曲曲艺 FM105.1
+http://ls.qingting.fm/live/343.m3u8
+#EXTINF:-1 ,radio=true ,北京房山经典音乐 FM96.9
+http://live.xmcdn.com/live/963/64.m3u8
+#EXTINF:-1 ,radio=true ,北京房山经典音乐 FM96.9
+http://ls.qingting.fm/live/68746.m3u8
+#EXTINF:-1 ,radio=true ,北京好音乐 FM95.9
+http://ls.qingting.fm/live/2131011.m3u8
+#EXTINF:-1 ,radio=true ,海南交通广播 FM100
+http://ls.qingting.fm/live/4911.m3u8
+#EXTINF:-1 ,radio=true ,海南国际旅游之声 FM103.8
+http://ls.qingting.fm/live/1862.m3u8
+#EXTINF:-1 ,radio=true ,海南新闻广播 FM88.6
+http://ls.qingting.fm/live/1861.m3u8
+#EXTINF:-1 ,radio=true ,海南民生广播 FM101
+http://ls.qingting.fm/live/1511803.m3u8
+#EXTINF:-1 ,radio=true ,海南音乐广播 FM94.5
+http://ls.qingting.fm/live/4878.m3u8
+#EXTINF:-1 ,radio=true ,海口音乐广播
+http://ls.qingting.fm/live/23859.m3u8
+#EXTINF:-1 ,radio=true ,龙广乡村广播 AM945
+http://stream3.hljtv.com/hljrdnc/sd/live.m3u8
+#EXTINF:-1 ,radio=true ,龙广乡村广播 AM945
+http://ls.qingting.fm/live/4977.m3u8
+#EXTINF:-1 ,radio=true ,龙广交通广播 FM99.8
+http://ls.qingting.fm/live/4973.m3u8
+#EXTINF:-1 ,radio=true ,龙广北大荒之声 FM104.6
+http://stream3.hljtv.com/hljrdgx/sd/live.m3u8
+#EXTINF:-1 ,radio=true ,龙广新闻广播 FM94.6
+http://stream3.hljtv.com/hljrdjt/sd/live.m3u8
+#EXTINF:-1 ,radio=true ,龙广新闻广播 FM94.6
+http://ls.qingting.fm/live/4974.m3u8
+#EXTINF:-1 ,radio=true ,龙广朝鲜语广播 AM873
+http://stream3.hljtv.com/hljrdcy/sd/live.m3u8
+#EXTINF:-1 ,radio=true ,龙广青苹果之声 FM104.6
+http://ls.qingting.fm/live/4976.m3u8
+#EXTINF:-1 ,radio=true ,龙广音乐广播 FM95.8
+http://stream3.hljtv.com/hljrdnx/sd/live.m3u8
+#EXTINF:-1 ,radio=true ,龙广音乐广播 FM95.8
+http://ls.qingting.fm/live/4969.m3u8
+#EXTINF:-1 ,radio=true ,龙广女性广播 FM102.1
+http://stream3.hljtv.com/hljrdnx/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" tvg-country="CN" tvg-url="" group-title="",Blue 美剧频道
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/HqScjKW.jpg" tvg-country="CN" tvg-url="" group-title="",CCTV 3
